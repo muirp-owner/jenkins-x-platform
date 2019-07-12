@@ -1,5 +1,6 @@
 dependencies:
-- host: github.com
+- component: builder-go-maven
+  host: github.com
   owner: jenkins-x
   repo: jenkins-x-builders
   url: https://github.com/jenkins-x/jenkins-x-builders
